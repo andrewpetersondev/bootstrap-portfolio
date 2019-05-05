@@ -8,6 +8,10 @@ nav a {
     margin-top: 20px;
 }
 
+.card img {
+    height: 200px;
+}
+
 h5 {
     background: #4aaaa5;
 }
