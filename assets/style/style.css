@@ -1,2 +1,9 @@
 body {
-    background: url("../images/concrete_seamless.png");}
+    background: url("../images/concrete_seamless.png");
+}
+nav a {
+    color: white;
+}
+.main {
+    margin-top: 20px;
+}
