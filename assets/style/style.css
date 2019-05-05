@@ -1,9 +1,13 @@
 body {
     background: url("../images/concrete_seamless.png");
 }
+#logo {
+    background: #4aaaa5;
+}
 nav a {
     color: white;
 }
+
 .main {
     margin-top: 20px;
 }
