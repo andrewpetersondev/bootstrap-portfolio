@@ -1,5 +1,9 @@
 # bootstrap-portfolio
 
+## Take a look
+
+**[Bootstrap Portfolio](https://andrewpetersondev.github.io/bootstrap-portfolio/)**
+
 The purpose of this project was to perfectly translate images into a website using bootstrap techniques. 
 
 ### Criteria
